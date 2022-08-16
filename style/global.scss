@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300&display=swap');
+
+body{
+    margin: 0;
+    font-family: 'Rubik', sans-serif;
+    color: #fff;
+    overflow-x: hidden;
+}
+
+::-webkit-scrollbar {width: 15px;}
+::-webkit-scrollbar-track { background: #850033; }  
+::-webkit-scrollbar-thumb { background: #390116; border-radius: 15px; }
+::-webkit-scrollbar-thumb:hover { background: #390016;}
