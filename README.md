@@ -28,4 +28,4 @@ The application is a very basic Trip Advisor app for the purpose of experimentin
 
 <h2 align="center">Demo Videos</h2>
 
-
+https://user-images.githubusercontent.com/92792238/185052279-62b63053-ba01-4766-99bd-d0794b2936fa.mp4
